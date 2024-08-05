@@ -27,8 +27,8 @@ this is my build of `dwm-6.5`
 to get started run these commands:
 
 ```
-git clone https://github.com/PikKlaxon/DWM-dotfiles
-cd DWM-dotfiles
+git clone https://github.com/PikKlaxon/dwm_fork
+cd dwm_fork
 cd dmenu
 sudo make clean install
 cd..
