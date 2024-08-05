@@ -1,0 +1,16 @@
+--- dwm.c
++++ dwm.c
+@@ -1720,6 +1721,13 @@ togglefloating(const Arg *arg)
+ 	arrange(selmon);
+ }
+ 
++void
++togglefullscr(const Arg *arg)
++{
++  if(selmon->sel)
++    setfullscreen(selmon->sel, !selmon->sel->isfullscreen);
++}
++
+ void
+ toggletag(const Arg *arg)
+ {
