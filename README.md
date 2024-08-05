@@ -28,6 +28,7 @@ to get started run these commands:
 
 ```
 git clone https://github.com/PikKlaxon/DWM-dotfiles
+cd DWM-dotfiles
 cd dmenu
 sudo make clean install
 cd..
