@@ -53,9 +53,5 @@ exec dwm
 ```
 
 ## showcase
-![1](https://github.com/user-attachments/assets/f10d299c-cb5b-4b9c-9dc6-ef1844263380)
-![2](https://github.com/user-attachments/assets/723238b0-038c-4dbf-9bd4-d696a08a63b8)
-![3](https://github.com/user-attachments/assets/90ac67ed-65b0-403c-90ed-5d173c03c97a)
-![4](https://github.com/user-attachments/assets/45fac7cf-38ae-4b37-b78f-28542e65604a)
 ![all](https://github.com/user-attachments/assets/c60c54c6-21fd-47b6-97e1-1d8f63561ad8)
 ![colors](https://github.com/user-attachments/assets/b0a5df02-d70a-4a57-b81c-7752d1e38d47)
